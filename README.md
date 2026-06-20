@@ -154,9 +154,8 @@ objectives = {
     "⚙️  ESP32"            : "Expanding embedded systems & wireless security",
     "🛡️  NYX Probe"        : "Completing firmware, adding advanced modules",
     "🚀 TVC Rocket"       : "Building a working stabilized prototype",
-    "📚 KEAM Prep"        : "Preparing for entrance exam — target: CS/ECE",
     "📊 Trading"          : "Learning markets, analysis & mindset",
-    "🔐 End Goal"         : "Cybersecurity Engineer | Security Researcher",
+    "🔐 End Goal"         : "IT enthusiast | Cybersecurity Engineer | Security Researcher",
 }
 ```
 
