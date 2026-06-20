@@ -68,14 +68,23 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ NYX Probe
-> **ESP32 Multi-Pentesting Tool**
+### 🛡️ NYX Probe — ESP32 Pentesting Platform
+> **Multi-Function Network Security Tool**
 
-A portable ESP32-based hardware pentesting device with WiFi deauth, BLE scanning, packet sniffing, and OLED UI. Built for field security testing and network analysis.
+A comprehensive ESP32-based hardware pentesting toolkit featuring WiFi analysis, Bluetooth/BLE assessment, network scanning, GPS integration, and BLE HID attacks. Includes OLED interface with nested menu system for field security testing and network reconnaissance.
 
-`ESP32` `WiFi` `BLE` `Cybersecurity` `C++`
+**Key Features:**
+- 🔍 WiFi Scanning (Active/Passive/Hidden)
+- 📡 Bluetooth & BLE Sniffing/Attacks
+- 🎯 Network Analysis (Port Scan, ARP Scan)
+- 🗺️ GPS Wardriving & Tracking
+- ⌨️ BLE HID Attack Capabilities
+- 📊 Real-time Signal Monitoring
+- 🎨 Interactive OLED UI with Menu System
 
-**Status:** `🟡 IN PROGRESS — Upgrading UI & Features`
+`ESP32` `WiFi 802.11` `BLE/Bluetooth` `Cybersecurity` `C++` `Networking`
+
+**Status:** `🔴 ACTIVE DEVELOPMENT` → [View Firmware](https://github.com/ArjunMP-sudo/NYX-Probe-Firmware)
 
 </td>
 <td width="50%" valign="top">
@@ -83,9 +92,9 @@ A portable ESP32-based hardware pentesting device with WiFi deauth, BLE scanning
 ### 🚀 TVC Rocket System
 > **Thrust Vector Control Rocket**
 
-DIY rocket with sensor-based stabilization using TVC gimbal mechanics. Integrates IMU data and servo control for real-time flight correction.
+DIY rocket with sensor-based stabilization using TVC gimbal mechanics. Integrates IMU data and servo control for real-time flight correction and stabilization during ascent.
 
-`ESP32` `IMU` `Servo` `Control Systems`
+`ESP32` `IMU` `Servo` `Control Systems` `Avionics`
 
 **Status:** `🟡 IN PROGRESS — Active Development`
 
@@ -97,9 +106,9 @@ DIY rocket with sensor-based stabilization using TVC gimbal mechanics. Integrate
 ### 💻 PCxHOOK
 > **Python Remote Command Tool**
 
-Execute any command on a remote PC over LAN/WAN. Lightweight, auto-starting, and port-forward ready. Perfect for remote device management.
+Execute any command on a remote PC over LAN/WAN. Lightweight, auto-starting, and port-forward ready. Perfect for remote device management and system administration.
 
-`Python` `Networking` `Remote` `LAN/WAN`
+`Python` `Networking` `Remote Management` `LAN/WAN`
 
 **Status:** `🟢 LIVE` → [View Repo](https://github.com/ArjunMP-sudo/PCxHOOK)
 
@@ -107,11 +116,11 @@ Execute any command on a remote PC over LAN/WAN. Lightweight, auto-starting, and
 <td width="50%" valign="top">
 
 ### 🔩 DIY Electronics
-> **Custom Hardware Builds**
+> **Custom Hardware Builds & Experiments**
 
-Various hardware experiments — sensor arrays, custom PCBs, motor drivers, and embedded system prototypes built from scratch.
+Various hardware experiments — sensor arrays, custom PCBs, motor drivers, and embedded system prototypes built from scratch. Learning through making.
 
-`Hardware` `Electronics` `Prototyping`
+`Hardware` `Electronics` `PCB Design` `Prototyping`
 
 **Status:** `🔵 ONGOING`
 
@@ -141,13 +150,13 @@ Various hardware experiments — sensor arrays, custom PCBs, motor drivers, and 
 
 ```python
 objectives = {
-    "🐍 Python"       : "Deep-diving into system-level & scripting",
-    "⚙️  ESP32"        : "Expanding embedded systems capabilities",
-    "🛡️  NYX Probe"    : "Upgrading UI, adding new pentest modules",
-    "🚀 TVC Rocket"   : "Building a working stabilized prototype",
-    "📚 KEAM Prep"    : "Preparing for entrance exam — target: CS/ECE",
-    "📊 Trading"      : "Learning markets, analysis & mindset",
-    "🔐 End Goal"     : "Cybersecurity Engineer",
+    "🐍 Python"           : "Deep-diving into system-level & scripting",
+    "⚙️  ESP32"            : "Expanding embedded systems & wireless security",
+    "🛡️  NYX Probe"        : "Completing firmware, adding advanced modules",
+    "🚀 TVC Rocket"       : "Building a working stabilized prototype",
+    "📚 KEAM Prep"        : "Preparing for entrance exam — target: CS/ECE",
+    "📊 Trading"          : "Learning markets, analysis & mindset",
+    "🔐 End Goal"         : "Cybersecurity Engineer | Security Researcher",
 }
 ```
 
@@ -171,6 +180,7 @@ objectives = {
 > Understand systems.
 > Break limits.  
 > Build smarter.
+> Secure everything.
 ```
 
 <!-- FOOTER WAVE -->
