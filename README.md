@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:00ffff&height=140&section=header&text=ArjunMP-sudo&fontSize=42&fontColor=00ffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FFFF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+IoT+%7C+Networking;ESP32+%7C+Embedded+Systems+%7C+Hardware+Hacker;Python+Developer+%7C+Maker+%7C+Builder;NYX+Probe+%E2%80%94+Multi-Pentesting+Tool;TVC+Rocket+%7C+PCxHOOK+%7C+DIY+Electronics;Future+Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FFFF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+IoT+%7C+Networking;ESP32+%7C+Embedded+Systems+%7C+Hardware+Hacker;Python+Developer+%7C+Maker+%7C+Builder;AI+Engineer+%7C+Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
-<!-- VISITOR BADGE -->
 <img src="https://komarev.com/ghpvc/?username=ArjunMP-sudo&color=9b00ff&style=flat-square&label=SYSTEM+ACCESS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/ArjunMP-sudo?style=flat-square&color=00ffff&labelColor=0d0d0d&label=FOLLOWERS" />
@@ -17,19 +14,19 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  IDENTITY MATRIX                                         ║
-╠══════════════════════════════════════════════════════════╣
-║  ALIAS         :  ArjunMP-sudo                           ║
-║  ROLE          :  Student | Maker | Builder              ║
-║  DOMAINS       :  Cybersecurity | IoT | Networking       ║
-║  HARDWARE      :  ESP32 | Arduino | DIY Electronics      ║
-║  CORE LANG     :  Python                                 ║
-║  READING       :  C++ | C#                               ║
-║  MISSION       :  Future Cybersecurity Engineer          ║
-║  STATUS        :  [ ACTIVE ]  [ BUILDING ]  [ LEARNING ] ║
-╚══════════════════════════════════════════════════════════╝
+```text
+╔═════════════════════════════════════════════════════════════╗
+║  IDENTITY MATRIX                                            ║
+╠═════════════════════════════════════════════════════════════╣
+║  ALIAS         :  ArjunMP-sudo                              ║
+║  ROLE          :  Student | Maker | Builder                 ║
+║  DOMAINS       :  Cybersecurity | AI | IoT                  ║
+║  HARDWARE      :  ESP32 | Arduino | DIY Electronics         ║
+║  CORE LANG     :  Python                                    ║
+║  READING       :  C#                                        ║
+║  MISSION       :  AI Engineer & Cybersecurity Engineer      ║
+║  STATUS        :  [ ACTIVE ]  [ BUILDING ]  [ LEARNING ]    ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
