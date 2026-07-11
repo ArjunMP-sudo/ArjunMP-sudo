@@ -1,185 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:00ffff&height=140&section=header&text=ArjunMP-sudo&fontSize=42&fontColor=00ffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+<!-- HEADER WITH DYNAMIC WAVE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=ArjunMP-sudo&fontSize=48&fontColor=00ffff&fontAlignY=45&animation=fadeIn&desc=BUILDING%20THE%20FUTURE&descSize=14&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=ArjunMP-sudo&fontSize=48&fontColor=00ffff&fontAlignY=45&animation=fadeIn&desc=BUILDING%20THE%20FUTURE&descSize=14&descAlignY=65" width="100%"/>
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FFFF&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+IoT+%7C+Networking;ESP32+%7C+Embedded+Systems+%7C+Hardware+Hacker;Python+Developer+%7C+Maker+%7C+Builder;AI+Engineer+%7C+Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+<!-- INTERACTIVE TYPING WITH GLITCH EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%94%A5+Cybersecurity+%7C+IoT+%7C+Networking;%F0%9F%92%BB+ESP32+%7C+Embedded+Systems+%7C+Hardware+Hacking;%F0%9F%90%8D+Python+Developer+%7C+AI+Enthusiast+%7C+Builder;%F0%9F%9B%A1%EF%B8%8F+NYX+Probe+%E2%80%94+Multi-Pentesting+Tool;%F0%9F%9A%80+TVC+Rocket+%7C+PCxHOOK+%7C+DIY+Electronics;%F0%9F%A7%A0+Future+AI+Engineer+%26+Cybersecurity+Engineer" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
+
+<!-- DYNAMIC VISITOR COUNTERS WITH NEON GLOW -->
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=ArjunMP-sudo&style=for-the-badge&color=00ffff&label=⚡%20SYSTEM%20ACCESSES" />
+  <img src="https://img.shields.io/github/followers/ArjunMP-sudo?style=for-the-badge&color=9b00ff&labelColor=0d0d0d&label=🎯%20FOLLOWERS&logo=github" />
+  <img src="https://img.shields.io/github/stars/ArjunMP-sudo?style=for-the-badge&color=ff69b4&labelColor=0d0d0d&label=⭐%20STARS&logo=github" />
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArjunMP-sudo&color=9b00ff&style=flat-square&label=SYSTEM+ACCESS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/ArjunMP-sudo?style=flat-square&color=00ffff&labelColor=0d0d0d&label=FOLLOWERS" />
+<!-- 3D NEON MATRIX DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
-
-```text
-╔═════════════════════════════════════════════════════════════╗
-║  IDENTITY MATRIX                                            ║
-╠═════════════════════════════════════════════════════════════╣
-║  ALIAS         :  ArjunMP-sudo                              ║
-║  ROLE          :  Student | Maker | Builder                 ║
-║  DOMAINS       :  Cybersecurity | AI | IoT                  ║
-║  HARDWARE      :  ESP32 | Arduino | DIY Electronics         ║
-║  CORE LANG     :  Python                                    ║
-║  READING       :  C#                                        ║
-║  MISSION       :  AI Engineer & Cybersecurity Engineer      ║
-║  STATUS        :  [ ACTIVE ]  [ BUILDING ]  [ LEARNING ]    ║
-╚═════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-## 〈 TECH STACK 〉
-
+<!-- INTERACTIVE TERMINAL IDENTITY CARD -->
 <div align="center">
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=9B00FF)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=9B00FF)
-
-<!-- Hardware / Embedded -->
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00FFFF)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00FFFF)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=9B00FF)
-
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=9B00FF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFFF)
-
-<!-- Domains -->
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FFFF)
-![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=mqtt&logoColor=9B00FF)
-![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00FFFF)
-
+```ansi
+[0;36m╔══════════════════════════════════════════════════════════════╗
+[0;36m║[0;37m                    [1;35m◈ IDENTITY MATRIX ◈[0;37m                       [0;36m║
+[0;36m╠══════════════════════════════════════════════════════════════╣
+[0;36m║[0;37m                                                              [0;36m║
+[0;36m║[0;37m  [1;36m▸ ALIAS[0;37m     : [1;35mArjunMP-sudo[0;37m                                [0;36m║
+[0;36m║[0;37m  [1;36m▸ ROLE[0;37m      : [1;33mStudent | Maker | Builder | Hacker[0;37m           [0;36m║
+[0;36m║[0;37m  [1;36m▸ DOMAINS[0;37m   : [0;32mCybersecurity | IoT | AI | Networking[0;37m         [0;36m║
+[0;36m║[0;37m  [1;36m▸ HARDWARE[0;37m   : [0;32mESP32 | Arduino | DIY Electronics[0;37m            [0;36m║
+[0;36m║[0;37m  [1;36m▸ CORE LANG[0;37m : [0;33mPython 🐍 | C# 🔷[0;37m                          [0;36m║
+[0;36m║[0;37m  [1;36m▸ MISSION[0;37m   : [1;35mAI Engineer & Cybersecurity Engineer[0;37m         [0;36m║
+[0;36m║[0;37m  [1;36m▸ STATUS[0;37m    : [0;32m[▓▓▓▓▓░░░] 67% ACTIVE | BUILDING | LEARNING[0;37m    [0;36m║
+[0;36m║[0;37m                                                              [0;36m║
+[0;36m╚══════════════════════════════════════════════════════════════╝
 </div>
-
----
-
-## 〈 ACTIVE PROJECTS 〉
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ NYX Probe — ESP32 Pentesting Platform
-> **Multi-Function Network Security Tool**
-
-A comprehensive ESP32-based hardware pentesting toolkit featuring WiFi analysis, Bluetooth/BLE assessment, network scanning, GPS integration, and BLE HID attacks. Includes OLED interface with nested menu system for field security testing and network reconnaissance.
-
-**Key Features:**
-- 🔍 WiFi Scanning (Active/Passive/Hidden)
-- 📡 Bluetooth & BLE Sniffing/Attacks
-- 🎯 Network Analysis (Port Scan, ARP Scan)
-- 🗺️ GPS Wardriving & Tracking
-- ⌨️ BLE HID Attack Capabilities
-- 📊 Real-time Signal Monitoring
-- 🎨 Interactive OLED UI with Menu System
-
-`ESP32` `WiFi 802.11` `BLE/Bluetooth` `Cybersecurity` `C++` `Networking`
-
-**Status:** `🔴 ACTIVE DEVELOPMENT` → [View Firmware](https://github.com/ArjunMP-sudo/NYX-PROBE)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 TVC Rocket System
-> **Thrust Vector Control Rocket**
-
-DIY rocket with sensor-based stabilization using TVC gimbal mechanics. Integrates IMU data and servo control for real-time flight correction and stabilization during ascent.
-
-`ESP32` `IMU` `Servo` `Control Systems` `Avionics`
-
-**Status:** `🟡 IN PROGRESS — Active Development`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 PCxHOOK
-> **Python Remote Command Tool**
-
-Execute any command on a remote PC over LAN/WAN. Lightweight, auto-starting, and port-forward ready. Perfect for remote device management and system administration.
-
-`Python` `Networking` `Remote Management` `LAN/WAN`
-
-**Status:** `🟢 LIVE` → [View Repo](https://github.com/ArjunMP-sudo/PCxHOOK)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔩 DIY Electronics
-> **Custom Hardware Builds & Experiments**
-
-Various hardware experiments — sensor arrays, custom PCBs, motor drivers, and embedded system prototypes built from scratch. Learning through making.
-
-`Hardware` `Electronics` `PCB Design` `Prototyping`
-
-**Status:** `🔵 ONGOING`
-
-</td>
-</tr>
-</table>
-
----
-
-## 〈 GITHUB STATS 〉
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunMP-sudo&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=9B00FF&text_color=ffffff&ring_color=9B00FF" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunMP-sudo&layout=compact&theme=synthwave&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArjunMP-sudo&theme=synthwave&hide_border=true&background=000000&ring=9B00FF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=9B00FF" height="160"/>
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> 〈 TECH STACK 〉
+<div align="center"><!-- INTERACTIVE TECH CATEGORIES WITH TOOLTIPS --><details open> <summary><b>🔧 Languages & Core</b></summary> <br/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=1a1a2e&color=306998" title="Primary Language - Scripting & Automation"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a2e&color=68217A" title="Learning - Application Development"/> </details>
+<details open> <summary><b>🔌 Hardware & Embedded</b></summary> <br/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=1a1a2e&color=E7352C" title="WiFi/BLE Microcontroller"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1a2e&color=00979D" title="Prototyping Platform"/> </details>
+<details open> <summary><b>🛠️ Development Tools</b></summary> <br/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e&color=F05032" title="Version Control"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=1a1a2e&color=007ACC" title="Primary IDE"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e&color=FCC624" title="Operating System"/> </details>
+<details open> <summary><b>🎯 Domains & Focus</b></summary> <br/> <img src="https://img.shields.io/badge/Cybersecurity-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a2e&color=00FF00" title="Security Research & Pentesting"/> <img src="https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=1a1a2e&color=00B4D8" title="Internet of Things"/> <img src="https://img.shields.io/badge/Networking-FF6B6B?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e&color=FF6B6B" title="Network Infrastructure"/> <img src="https://img.shields.io/badge/AI_&_ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a2e&color=FF6F00" title="Artificial Intelligence"/> </details></div>
+<!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 〈 ACTIVE PROJECTS 〉
+<div align="center"><!-- PROJECT CARDS WITH HOVER EFFECTS --><table> <tr> <!-- NYX PROBE --> <td width="50%"> <div align="center"> <img src="https://img.shields.io/badge/🔴_ACTIVE-NYX_PROBE-FF0000?style=for-the-badge&labelColor=0a0a0a"/> <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=ESP32+Pentesting+Platform;WiFi+%7C+BLE+%7C+Network+Analysis;Hardware+Security+Toolkit" alt="NYX Probe" /> <br/> <details> <summary><b>📡 View Details</b></summary> <br/> <b>Multi-Function Network Security Tool</b> <br/><br/> • 🔍 WiFi Scanning (Active/Passive/Hidden)<br/> • 📡 Bluetooth & BLE Sniffing/Attacks<br/> • 🎯 Network Analysis (Port/ARP Scan)<br/> • 🗺️ GPS Wardriving & Tracking<br/> • ⌨️ BLE HID Attack Capabilities<br/> • 📊 Real-time Signal Monitoring<br/> • 🎨 Interactive OLED UI System<br/><br/> <code>ESP32</code> <code>WiFi</code> <code>BLE</code> <code>C#</code> <code>Security</code> <br/><br/> <a href="https://github.com/ArjunMP-sudo/NYX-Probe-Firmware"> <img src="https://img.shields.io/badge/VIEW_FIRMWARE-000000?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=1a0033"/> </a> </details> </div> </td> <!-- PCxHOOK --> <td width="50%"> <div align="center"> <img src="https://img.shields.io/badge/🟢_LIVE-PCxHOOK-00FF00?style=for-the-badge&labelColor=0a0a0a"/> <br/><br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=500&color=9B00FF&center=true&vCenter=true&width=400&lines=Remote+Command+Tool;Python+LAN%2FWAN+Control;System+Administration" alt="PCxHOOK" /> <br/> <details> <summary><b>💻 View Details</b></summary> <br/> <b>Python Remote Command Execution</b> <br/><br/> • Execute commands on remote PC<br/> • Works over LAN/WAN<br/> • Lightweight & auto-starting<br/> • Port-forward ready<br/> • System administration tool<br/><br/> <code>Python</code> <code>Networking</code> <code>Remote Control</code> <br/><br/> <a href="https://github.com/ArjunMP-sudo/PCxHOOK"> <img src="https://img.shields.io/badge/VIEW_REPO-000000?style=for-the-badge&logo=github&logoColor=9b00ff&labelColor=1a0033"/> </a> </details> </div> </td> </tr> <tr> <!-- TVC Rocket --> <td width="50%"> <div align="center"> <img src="https://img.shields.io/badge/🟡_BUILDING-TVC_ROCKET-FFA500?style=for-the-badge&labelColor=0a0a0a"/> <br/><br/> <details> <summary><b>🚀 View Details</b></summary> <br/> <b>Thrust Vector Control Rocket</b> <br/><br/> • Sensor-based stabilization<br/> • TVC gimbal mechanics<br/> • IMU data integration<br/> • Real-time flight correction<br/> • Servo control system<br/><br/> <code>ESP32</code> <code>IMU</code> <code>Avionics</code> <code>Control Systems</code> </details> </div> </td> <!-- DIY Electronics --> <td width="50%"> <div align="center"> <img src="https://img.shields.io/badge/🔵_ONGOING-DIY_ELECTRONICS-0066FF?style=for-the-badge&labelColor=0a0a0a"/> <br/><br/> <details> <summary><b>🔩 View Details</b></summary> <br/> <b>Custom Hardware Experiments</b> <br/><br/> • Sensor arrays & testing<br/> • Custom PCB designs<br/> • Motor drivers<br/> • Embedded prototypes<br/> • Learning through making<br/><br/> <code>Hardware</code> <code>PCB</code> <code>Prototyping</code> </details> </div> </td> </tr> </table></div>
+<!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 〈 GITHUB ANALYTICS 〉
+<div align="center"><!-- STATS CARDS WITH HOVER ANIMATIONS --><a href="https://github.com/ArjunMP-sudo"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArjunMP-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=9B00FF&text_color=FFFFFF&ring_color=00FFFF&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunMP-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8"/> </a><br/> <br/><!-- STREAK STATS WITH FIRE EFFECT --><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunMP-sudo&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF69B4&currStreakLabel=00FFFF&sideLabels=9B00FF&stroke=00FFFF"/><br/> <br/><!-- CONTRIBUTION GRAPH --><img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunMP-sudo&theme=react-dark&bg_color=0D1117&color=00FFFF&line=9B00FF&point=00FFFF&area=true&hide_border=true" width="95%"/></div>
+<!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/fYSnHlufKFco2CTP0x/giphy.gif" width="30px"> 〈 CURRENT OBJECTIVES 〉
+<div align="center"><!-- INTERACTIVE PROGRESS BARS --><table> <tr> <td align="right">🐍 Python Mastery</td> <td><img src="https://progress-bar.dev/75/?title=&width=300&color=00ffff&scale=100&suffix=%"/></td> <td>System-level & AI scripting</td> </tr> <tr> <td align="right">⚙️ ESP32 Development</td> <td><img src="https://progress-bar.dev/80/?title=&width=300&color=9b00ff&scale=100&suffix=%"/></td> <td>Wireless security & embedded</td> </tr> <tr> <td align="right">🛡️ NYX Probe</td> <td><img src="https://progress-bar.dev/65/?title=&width=300&color=ff69b4&scale=100&suffix=%"/></td> <td>Advanced firmware modules</td> </tr> <tr> <td align="right">🤖 AI/ML Learning</td> <td><img src="https://progress-bar.dev/40/?title=&width=300&color=ff6f00&scale=100&suffix=%"/></td> <td>Neural networks & models</td> </tr> <tr> <td align="right">🔐 Cybersecurity</td> <td><img src="https://progress-bar.dev/70/?title=&width=300&color=00ff00&scale=100&suffix=%"/></td> <td>Pentesting & defense</td> </tr> </table>
 </div>
-
----
-
-## 〈 CURRENT OBJECTIVES 〉
-
-```python
-objectives = {
-    "🐍 Python"           : "Deep-diving into system-level & scripting",
-    "⚙️  ESP32"            : "Expanding embedded systems & wireless security",
-    "🛡️  NYX Probe"        : "Completing firmware, adding advanced modules",
-    "🚀 TVC Rocket"       : "Building a working stabilized prototype",
-    "📊 Trading"          : "Learning markets, analysis & mindset",
-    "🔐 End Goal"         : "IT enthusiast | Cybersecurity Engineer | Security Researcher",
-}
-```
-
----
-
-## 〈 CONNECT 〉
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ArjunMP--sudo-000000?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/ArjunMP-sudo)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-mp__arjun177-000000?style=for-the-badge&logo=instagram&logoColor=9B00FF)](https://instagram.com/mp_arjun177)
-
-</div>
-
----
-
-<div align="center">
-
-```
-> Understand systems.
-> Break limits.  
-> Build smarter.
-> Secure everything.
-```
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:1a0033,100:000000&height=120&section=footer" width="100%"/>
-
-</div>
+<!-- ANIMATED DIVIDER --><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 〈 CONNECT 〉
+<div align="center"><!-- SOCIAL LINKS WITH NEON EFFECTS --><a href="https://github.com/ArjunMP-sudo"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0a0a0a&color=1a0033"/> </a> <a href="https://instagram.com/mp_arjun177"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a&color=9B00FF"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=00FFFF"/> </a><br/> <br/><!-- QUOTE WITH TYPING EFFECT --><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=16&duration=4000&pause=2000&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+Understand+systems;%3E+Break+limits;%3E+Build+smarter;%3E+Secure+everything" alt="Quote" /><br/> <br/><!-- SNAKE GAME CONTRIBUTION --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArjunMP-sudo/ArjunMP-sudo/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArjunMP-sudo/ArjunMP-sudo/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArjunMP-sudo/ArjunMP-sudo/output/github-contribution-grid-snake.svg"> </picture>
+<!-- FOOTER WAVE --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,5,2,0&height=120&section=footer&animation=twinkling"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,5,2,0&height=120&section=footer&animation=twinkling" width="100%"/> </picture><div align="center"> <img src="https://img.shields.io/badge/⚡_POWERED_BY-CURIOSITY_&_CODE-000000?style=for-the-badge&labelColor=0D1117&color=00FFFF"/> </div></div> ```
