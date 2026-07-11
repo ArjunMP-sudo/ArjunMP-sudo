@@ -84,7 +84,7 @@ A comprehensive ESP32-based hardware pentesting toolkit featuring WiFi analysis,
 
 `ESP32` `WiFi 802.11` `BLE/Bluetooth` `Cybersecurity` `C++` `Networking`
 
-**Status:** `🔴 ACTIVE DEVELOPMENT` → [View Firmware](https://github.com/ArjunMP-sudo/NYX-Probe-Firmware)
+**Status:** `🔴 ACTIVE DEVELOPMENT` → [View Firmware](https://github.com/ArjunMP-sudo/NYX-PROBE)
 
 </td>
 <td width="50%" valign="top">
